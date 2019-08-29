@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp96">96dp</dimen>
+
+    <dimen name="sp16">16sp</dimen>
+</resources>
